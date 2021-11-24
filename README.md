@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/p_a_v_a_n_p_o_p" target="blank"><img src="https://img.shields.io/twitter/follow/p_a_v_a_n_p_o_p?logo=twitter&style=for-the-badge" alt="p_a_v_a_n_p_o_p" /></a> </p>
 
-- 🔭 I’m currently working on [programming-fundamentals](https://github.com/edoardottt/programming-fundamentals)
+<!-- - 🔭 I’m currently working on [programming-fundamentals](https://github.com/edoardottt/programming-fundamentals) -->
 
-- 🌱 I’m currently exploring **JAVA, K8S, Docker**
+- 🌱 I’m currently exploring **Web Developing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/POP1912](https://github.com/POP1912)
 
