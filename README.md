@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on [programming-fundamentals](https://github.com/edoardottt/programming-fundamentals) -->
 
-- 🌱 I’m currently exploring **Web Developing**
+- 🌱 I’m currently exploring **Automating with Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/POP1912](https://github.com/POP1912)
 
-- 💬 Ask me about **Python, AWS, JAVA**
+- 💬 Ask me about **Python, AWS**
 
 - 📫 How to reach me **pavankumarmolleti@gmail.com**
 
