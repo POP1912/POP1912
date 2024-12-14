@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on [programming-fundamentals](https://github.com/edoardottt/programming-fundamentals) -->
 
-- 🌱 I’m currently exploring **Automating with Python**
+- 🌱 I’m currently exploring **AI ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/POP1912](https://github.com/POP1912)
 
